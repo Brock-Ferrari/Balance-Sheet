@@ -1,3 +1,2 @@
-HELLO WORLD
-changes to readme
-more changes to readme
+This repository includes all code utilized for freeCodeCamp.com certifications across multiple computers....
+-B
