@@ -1,2 +1,3 @@
-This repository includes all code utilized for freeCodeCamp.com certifications across multiple computers....
+Balance sheet created using only HTML & CSS.
+Demonstrates use of tables
 -BF
